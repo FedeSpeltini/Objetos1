@@ -7,4 +7,6 @@ Test automatico
 			Mientras menos abarcativo sea el Test, va a ser mas fino
 
 	Primero= Hacer una especificación previa del Test¿?
+	
+	Coverage/Cobertura = Todos los test estan probados. Todos los test deberian enlazar todo el codigo 
 
