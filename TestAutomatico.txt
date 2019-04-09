@@ -1,0 +1,10 @@
+Test automatico 
+3 caracteristicas
+	Automatico: mediante Acert
+		Acert: Sentencia en Wollok, indica en el test el resultado en el test devuelve un determinado valor.
+
+	Unitario: Testee la porcion de software mas chica posible, que tenga una sola consulta.
+			Mientras menos abarcativo sea el Test, va a ser mas fino
+
+	Primero= Hacer una especificación previa del Test¿?
+
